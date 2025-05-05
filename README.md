@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm milena concha</h1>
+<h1 align="center">Hi 👋, I'm   Milena Concha</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milechan&label=Profile%20views&color=0e75b6&style=flat" alt="milechan" /> </p>
